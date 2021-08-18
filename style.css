@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#canvas1
+{
+   border-width:5px;
+   background-color: white;
+   border-style: dotted;
+}
+
